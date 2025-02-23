@@ -1,0 +1,19 @@
+{
+  "name": "tugas-selenium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "addtocart": "mocha test-annotation/add-item-to-cart.js",
+    "succeslogin": "mocha test-annotation/succes-login.js",
+    "test:all": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^11.1.0",
+    "selenium-webdriver": "^4.29.0"
+  }
+}
