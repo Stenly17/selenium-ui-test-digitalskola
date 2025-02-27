@@ -1,0 +1,24 @@
+{
+  "login": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "checkout": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "postalCode": "12345"
+  },
+  "screenshots": {
+    "loginSuccess": "TC01_Login_Success.png",
+    "addToCartSuccess": "TC02_AddToCart_Success.png",
+    "checkoutSuccess": "TC03_Checkout_Success.png"
+  },
+  "logs": {
+    "loginSuccess": "✅ Login Berhasil!",
+    "addToCartSuccess": "✅ Barang Berhasil Ditambahkan ke Keranjang!",
+    "checkoutSuccess": "✅ Checkout Berhasil!",
+    "screenshotSaved": "📸 Screenshot saved: "
+  }
+}
+
+  

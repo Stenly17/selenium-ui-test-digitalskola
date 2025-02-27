@@ -1,0 +1,16 @@
+{
+  "name": "selenium-mocha-test",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+  "test": "mocha --parallel test/**/*.js"
+},
+  "devDependencies": {
+    "mocha": "^11.1.0",
+    "chai": "^4.3.8",
+    "selenium-webdriver": "^4.28.1"
+  }
+}
+
+
